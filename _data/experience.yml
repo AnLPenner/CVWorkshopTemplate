@@ -1,17 +1,17 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
+    degreepath: PhD in English # for type.education.
+    institution: Rice University University
     department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
-    notes: In Progress
+    advisors: Helena Michie, Robert Patten, Martin Wiener # for type.education.
+    thesis: "Resisting Statistical Fictions" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 1993 - 2000
+    notes: Nominated for Dissertation of the Year
     
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
+    title: Associate Professor # for type.employment.
+    institution: University of Massachusetts Boston 
     department: Department
     years: 2024 - Present
     
