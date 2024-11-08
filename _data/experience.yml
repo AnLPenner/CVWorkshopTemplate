@@ -3,7 +3,7 @@ main:
   - type: education
     degreepath: PhD in English # for type.education.
     institution: Rice University University
-    department: Lorem Ipsum
+    department: 
     advisors: Helena Michie, Robert Patten, Martin Wiener # for type.education.
     thesis: "Resisting Statistical Fictions" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 1993 - 2000
@@ -13,7 +13,7 @@ main:
     title: Associate Professor # for type.employment.
     institution: University of Massachusetts Boston 
     department: Department
-    years: 2024 - Present
+    years: 2003 - Present
     
   - type: service
     title: A role
