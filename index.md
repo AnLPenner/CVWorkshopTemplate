@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-Testing here
+Louise Penner conducts research and teaches courses in the areas of Victorian Literature and Culture and Global Health Humanities
+
 
 ## Research Interests
 
